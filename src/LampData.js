@@ -1,0 +1,15 @@
+const LampData = [
+    {name:'Table Lamp', cover:'https://m.media-amazon.com/images/I/51vcuIPCWkL._AC_UF1000,1000_QL80_.jpg',buylink:'https://www.amazon.in/Tucasa-LG-200-Conical-Shade-Table/dp/B00R4C5EVW?th=1' ,prices:'1020'},
+    {name:'Table Lamp', cover:'https://media.istockphoto.com/id/947334652/photo/desk-lamp-on-white-background-photo-with-clipping-path.jpg?s=612x612&w=0&k=20&c=FvRRsUjCnLaNffVuBZMnOt_8jnuPBltzUxSbdoLvKng=',buylink:'https://www.istockphoto.com/photo/desk-lamp-on-white-background-photo-with-clipping-path-gm947334652-258669879' ,prices: '2000'},
+    {name:'Table Lamp', cover:'https://m.media-amazon.com/images/I/41fPhQgLgpL._AC_UF1000,1000_QL80_.jpg',buylink:'https://www.amazon.in/Pick-Ur-Rechargeable-Children-Protection/dp/B08L4335ZX?th=1' ,prices: '700'},
+    {name:'Desk Lamp', cover:'https://www.whiteteak.com/media/fishpig/webp/catalog/product/cache/4f9684b790a78d2ad48602ec5021b7a8/t/l/tl44-10002_4_.webp',buylink:'https://www.whiteteak.com/night-owl-table-lamp/?campaignid=18203329433&adgroupid=149158916828&keyword=&device=c&gclid=CjwKCAjwq4imBhBQEiwA9Nx1BmFjxb1sDIWlgQ2Dbdnhza7U0k5AjZsonpB6cpJLlDoUC6tGrfMtJxoChWIQAvD_BwE' ,prices: '7,000'},
+    {name:'Desk Lamp', cover:'https://www.whiteteak.com/media/fishpig/webp/catalog/product/cache/4f9684b790a78d2ad48602ec5021b7a8/t/l/tl53-10001_10_.webp',buylink:'https://www.whiteteak.com/work-your-way-dimmable-led-with-remote-control-table-lamp/?campaignid=18203329433&adgroupid=149158916828&keyword=&device=c&gclid=CjwKCAjwq4imBhBQEiwA9Nx1BqpCHDsDH8AEFDFs7G0n8ni3KSrRd_p_q85X3desGowJip8Ut9XB7BoCzdwQAvD_BwE' ,prices: '12,000'},
+    {name:'Desk Lamp', cover:'https://www.whiteteak.com/media/fishpig/webp/catalog/product/cache/a64c8e9cfc5e68c438191ffc2c6ad677/t/l/tl28-10001_1_.webp',buylink:'https://www.whiteteak.com/poised-smart-led-table-lamp/?campaignid=18203329433&adgroupid=149158916828&keyword=&device=c&gclid=CjwKCAjwq4imBhBQEiwA9Nx1BokQJrUX7_JwmSpmKzKfgBs3FIfeFPtEJbL2nnQ-vvA1CilIv0wJlxoC5n4QAvD_BwE' ,prices: '13,000'},
+    {name:'Foor Lamp', cover:'https://www.whiteteak.com/media/fishpig/webp/catalog/product/cache/4f9684b790a78d2ad48602ec5021b7a8/f/l/fl54-10002_17_.webp',buylink:'https://www.whiteteak.com/a-star-forever-floor-lamp/?campaignid=18203329433&adgroupid=149158916828&keyword=&device=c&gclid=CjwKCAjwq4imBhBQEiwA9Nx1Bl3huS7EzPWetx8UkwVkIqyQBe22LNQ0jWxYMiDo4xRPWoz_giz4pBoCXp4QAvD_BwE' ,prices: '20,000'},
+    {name:'Foor Lamp', cover:'https://www.whiteteak.com/media/fishpig/webp/catalog/product/cache/4f9684b790a78d2ad48602ec5021b7a8/f/l/fl62-10001_6_.webp',buylink:'https://www.whiteteak.com/in-my-mind-marble-floor-lamp/' ,prices: '15,000.00'},
+    {name:'Foor Lamp', cover:'https://www.whiteteak.com/media/fishpig/webp/catalog/product/cache/4f9684b790a78d2ad48602ec5021b7a8/f/l/fl55-10003_25_.webp',buylink:'https://www.whiteteak.com/thinking-of-forever-built-in-led-floor-lamp/?campaignid=18203329433&adgroupid=149158916828&keyword=&device=c&gclid=CjwKCAjwq4imBhBQEiwA9Nx1Btt09U-zb8Nbz0Krj7eQ9HoQyvkgKM8lIHlvWAB2zr8RgeOCeDLzOBoCv4gQAvD_BwE' ,prices: '120,000'}
+
+]
+
+
+export default LampData;

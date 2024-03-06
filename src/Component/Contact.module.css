@@ -1,0 +1,63 @@
+ 
+
+
+.heading {
+    color: black;
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.heading1{
+    color: black;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.heading2{
+    color: rgb(252, 235, 235);
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding-left: 150px;
+    padding-top: 3px;
+}
+.head1{
+    border-radius: 5px;
+}
+.head2{
+    color:aliceblue;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.button:hover {
+    background-color: rgb(44, 7, 230);
+}
+
+.button {
+    border-radius: 10px;
+    height: 30px;
+    width: 100px;
+    justify-content: center;
+}
+.form {
+    
+   
+    padding: 20px;
+    /* float: left; */
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWm_eVX9t_jpdsUaieuC-L57mzDNOs6_Yq_A&usqp=CAU");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    height: 50vh;
+    width: 100vw;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+
+    
+    
+} 
+/* .main-from{
+    background-color: aqua;
+} */
